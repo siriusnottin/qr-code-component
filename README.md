@@ -24,21 +24,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/siriusnottin/qr-code-component](https://github.com/siriusnottin/qr-code-component)
+- Live Site URL: [siriusnottin.github.io/qr-code-component/](https://siriusnottin.github.io/qr-code-component/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS variables
 - Flexbox
 - CSS Grid
 
 ### What I learned
 
-* How to right semantic HTML, use of CSS variables, indented CSS rules, work on a real project with a  provided Figma design file.
+* How to right semantic HTML, use of CSS variables, nested CSS rules, work on a real project with a  provided Figma design file.
 
 ### Continued development
 
